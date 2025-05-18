@@ -1,0 +1,17 @@
+name = "From the Shadows"
+filename = "fromtheshadows-1.592.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "62d392465a9cdf39821cddf0284dfdaad9b0d719"
+
+[update]
+[update.curseforge]
+file-id = 5053370
+project-id = 878431
+
+[update.do_updates]
+do_updates = "true"

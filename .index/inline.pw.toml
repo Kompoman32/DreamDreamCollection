@@ -1,0 +1,17 @@
+name = "Inline"
+filename = "inline-forge-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/fin1PX4m/versions/bFFuH1bk/inline-forge-1.20.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "6a6ab9ae95afe666787e93a85f4b2124bbfaae2b80f84759f4264c986aa36378b7df9e318ba709a303d9eb19ad2720b2b42bd22a3b65e6d6ca63c621825bab7e"
+
+[update]
+[update.modrinth]
+mod-id = "fin1PX4m"
+version = "bFFuH1bk"
+
+[update.do_updates]
+do_updates = "true"

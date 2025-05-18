@@ -1,0 +1,17 @@
+name = "Online Emotes"
+filename = "online-emotes-2.1.2-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Dc4g4seU/versions/2Riip6rV/online-emotes-2.1.2-forge.jar"
+hash-format = "sha512"
+hash = "7035e5de6d41e1220df12e3236630e5894a9fd0c8931b1e0f4dd27b5b583c900253c2ac7e9249a602ccda21711977f515dc96df5f5de0ef63079b652e6eddf15"
+
+[update]
+[update.modrinth]
+mod-id = "Dc4g4seU"
+version = "2Riip6rV"
+
+[update.do_updates]
+do_updates = "true"

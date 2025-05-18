@@ -1,0 +1,17 @@
+name = "Monster Hunter Villager"
+filename = "Monster Hunter Villager 1.2.1-1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/d4R1a1VG/versions/fT5OmLqQ/Monster Hunter Villager 1.2.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "aab4577f33cafc7353478388eff6a5e243e23ae1840bd0b13de24f11063bbb5f86fcc5fbd8b813bf32dbae66a735455f728a951ad3a93424c85149465c10958e"
+
+[update]
+[update.modrinth]
+mod-id = "d4R1a1VG"
+version = "fT5OmLqQ"
+
+[update.do_updates]
+do_updates = "true"

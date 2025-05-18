@@ -1,0 +1,17 @@
+name = "Second Overworld"
+filename = "second overworld 1201.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ugdA9tcL/versions/68wtWet3/second overworld 1201.jar"
+hash-format = "sha512"
+hash = "ca46bad9bbe14d3a143ad48c4417ba3a4b0c3a7932355d0deb20bf526c6aeb125eaf906b5db9d5f179b0a1404d81733cd5147c49dd1ac67d951691630c37c6f1"
+
+[update]
+[update.modrinth]
+mod-id = "ugdA9tcL"
+version = "68wtWet3"
+
+[update.do_updates]
+do_updates = "true"

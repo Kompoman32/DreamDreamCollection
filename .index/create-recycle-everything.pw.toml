@@ -1,0 +1,17 @@
+name = "Create Recycle Everything"
+filename = "create_recycle_1.0.2_forge_1.20.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "e388ad4db938eaeddcaac49b49d5997794a3cfc8"
+
+[update]
+[update.curseforge]
+file-id = 4714469
+project-id = 872577
+
+[update.do_updates]
+do_updates = "true"

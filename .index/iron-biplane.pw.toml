@@ -1,0 +1,17 @@
+name = "Iron Biplane"
+filename = "iron_biplane-0.1+1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/tbim08wW/versions/iDfE3Ee4/iron_biplane-0.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "a4d5de709e79bcbad1a31bc6c879e0f5185830458e44bf31e388a69b994a8874e9473b668d4574c1a0959c3538f775a75f6196d0422c296009ecda5225ea5c69"
+
+[update]
+[update.modrinth]
+mod-id = "tbim08wW"
+version = "iDfE3Ee4"
+
+[update.do_updates]
+do_updates = "true"

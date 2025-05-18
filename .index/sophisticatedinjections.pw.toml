@@ -1,0 +1,17 @@
+name = "Sophisticated Injections"
+filename = "sophisticatedinjections-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/n0o69rSQ/versions/Pbaohd94/sophisticatedinjections-1.0.1.jar"
+hash-format = "sha512"
+hash = "65523568cfc57518cdd6f4cef63213902c2b673411f52b1472250dbb2e8c9d1ebc10c21f2b24ccbf25cfa5ee315d4cadb0f70aacb6a8fc6df3a2e5be9e0ba2db"
+
+[update]
+[update.modrinth]
+mod-id = "n0o69rSQ"
+version = "Pbaohd94"
+
+[update.do_updates]
+do_updates = "true"

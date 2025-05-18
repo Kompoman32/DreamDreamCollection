@@ -1,0 +1,17 @@
+name = "Mob Battle Mod"
+filename = "mobbattle-1.20.1-2.4.13-forge.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/LbrJcAlI/versions/WHIpJuDe/mobbattle-1.20.1-2.4.13-forge.jar"
+hash-format = "sha512"
+hash = "3b6bc93a0757e9f121d03b94fa98b3118095630f1d685066bacfcdfbe0c37cd6c996da17ea67d78869d186fb1b80821d9590a169115403692efb7203494d75d2"
+
+[update]
+[update.modrinth]
+mod-id = "LbrJcAlI"
+version = "WHIpJuDe"
+
+[update.do_updates]
+do_updates = "true"

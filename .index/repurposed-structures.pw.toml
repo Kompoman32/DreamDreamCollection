@@ -1,0 +1,17 @@
+name = "Repurposed Structures"
+filename = "repurposed_structures-7.1.17+1.20.1-forge.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "1b557592c9cfef5466648d26c2db708eaa009f57"
+
+[update]
+[update.curseforge]
+file-id = 6540261
+project-id = 368293
+
+[update.do_updates]
+do_updates = "true"

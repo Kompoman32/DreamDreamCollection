@@ -1,0 +1,17 @@
+name = "Village Spawn Point"
+filename = "villagespawnpoint-1.20.1-4.6.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "1f121bbe2914a71807c6723860a818b48196d972"
+
+[update]
+[update.curseforge]
+file-id = 6429243
+project-id = 347381
+
+[update.do_updates]
+do_updates = "true"

@@ -1,0 +1,17 @@
+name = "Heracles"
+filename = "Heracles-forge-1.20.1-1.1.13.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "ca6de15e1631ccbf5463fcf3df6d3ad37aa5d6e5"
+
+[update]
+[update.curseforge]
+file-id = 5406935
+project-id = 845831
+
+[update.do_updates]
+do_updates = "true"

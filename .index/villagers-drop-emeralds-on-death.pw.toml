@@ -1,0 +1,17 @@
+name = "Villagers Drop Emeralds on Death"
+filename = "villagerdrops-forge-1.20.1-v1.3.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/dYtETNTo/versions/kuh2PqVf/villagerdrops-forge-1.20.1-v1.3.0.jar"
+hash-format = "sha512"
+hash = "21272b7f90fe955cf3869045df413546f5af9b3c1ae6a0beb1d894e7020a7e2e06ab9d05db46d5be9347baca1a33faf4ef0d5fa654b4a07ec0bbda401737cacb"
+
+[update]
+[update.modrinth]
+mod-id = "dYtETNTo"
+version = "kuh2PqVf"
+
+[update.do_updates]
+do_updates = "true"

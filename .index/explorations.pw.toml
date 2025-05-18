@@ -1,0 +1,17 @@
+name = "Explorations+"
+filename = "explorations-forge-1.20.1-1.6.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "044872033237c62ff720b939ff610ba4817e182e"
+
+[update]
+[update.curseforge]
+file-id = 5786325
+project-id = 550247
+
+[update.do_updates]
+do_updates = "true"

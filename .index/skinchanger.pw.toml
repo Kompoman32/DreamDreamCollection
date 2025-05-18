@@ -1,0 +1,17 @@
+name = "SkinChanger"
+filename = "skin_changer-forge-1.20.1-0.6.6.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/5jVtTQGY/versions/oR7ZaDQ7/skin_changer-forge-1.20.1-0.6.6.jar"
+hash-format = "sha512"
+hash = "1754f1a4aae322d663c0b157efc8397f50b5a680a81f6958c7df90f1b87ad6efe46858132b401f8915774e9c849cb0cf2befdcc4264f30ede0c9def2be4f8520"
+
+[update]
+[update.modrinth]
+mod-id = "5jVtTQGY"
+version = "oR7ZaDQ7"
+
+[update.do_updates]
+do_updates = "true"

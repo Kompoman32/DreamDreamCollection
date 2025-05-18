@@ -1,0 +1,17 @@
+name = "Baritone AI bot"
+filename = "baritone-standalone-forge-1.10.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "3733df2533a42c67072f7142417db8a396938145"
+
+[update]
+[update.curseforge]
+file-id = 5804581
+project-id = 1119902
+
+[update.do_updates]
+do_updates = "true"

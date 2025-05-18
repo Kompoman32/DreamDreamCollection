@@ -1,0 +1,17 @@
+name = "Delightful Slaughter"
+filename = "delightful_slaughter-0.3-1.20.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/pL0mUEoW/versions/UGVWSUxv/delightful_slaughter-0.3-1.20.1.jar"
+hash-format = "sha512"
+hash = "62ca11ebbd901e5d9d1bcb5efae14f825c5a345bad08890db41d9c5fa4c5db3322d9714504a3cc241ddc25929f6277c8767ad90695e853385a4541f4cbdab949"
+
+[update]
+[update.modrinth]
+mod-id = "pL0mUEoW"
+version = "UGVWSUxv"
+
+[update.do_updates]
+do_updates = "true"

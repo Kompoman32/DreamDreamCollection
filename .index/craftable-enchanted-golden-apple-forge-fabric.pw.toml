@@ -1,0 +1,17 @@
+name = "Craftable Enchanted Golden Apple [FORGE/FABRIC]"
+filename = "CraftableEnchantedGoldenApple-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "e34d3651cd80eaed151670a0afc8e5857aca4bac"
+
+[update]
+[update.curseforge]
+file-id = 4761533
+project-id = 915286
+
+[update.do_updates]
+do_updates = "true"

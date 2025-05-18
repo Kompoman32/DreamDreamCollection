@@ -1,0 +1,17 @@
+name = "YDM's Red Panda"
+filename = "redpanda-forge-1.20.1-1.0.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "2279454c92a24ab76f9003428b16e1b2af6c1110"
+
+[update]
+[update.curseforge]
+file-id = 4589858
+project-id = 623035
+
+[update.do_updates]
+do_updates = "true"

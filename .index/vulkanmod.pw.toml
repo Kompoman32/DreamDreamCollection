@@ -1,0 +1,17 @@
+name = "VulkanMod"
+filename = "VulkanMod_1.20.1-0.5.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "f613ec1316254acb8a7ce055ecc0a239fa291235"
+
+[update]
+[update.curseforge]
+file-id = 5988245
+project-id = 635429
+
+[update.do_updates]
+do_updates = "true"

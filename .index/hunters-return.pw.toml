@@ -1,0 +1,17 @@
+name = "Hunters Returns"
+filename = "hunters_return-1.20.1-11.7.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Yt6gmdxW/versions/y5GusuPl/hunters_return-1.20.1-11.7.0.jar"
+hash-format = "sha512"
+hash = "b53d9b1661f568b66285d8840632c21d71dffcd4ead118867434d0d4dcc0a49ce272408b94cf6431bdb8d77d4c29d892b2ad561f6f7feaf8bf3239c676a076ca"
+
+[update]
+[update.modrinth]
+mod-id = "Yt6gmdxW"
+version = "y5GusuPl"
+
+[update.do_updates]
+do_updates = "true"

@@ -1,0 +1,17 @@
+name = "Ping Me!"
+filename = "ping-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/q4kfVkXs/versions/B3eyZg7E/ping-1.0.0.jar"
+hash-format = "sha512"
+hash = "3783aa66536b29890768a330642407182c26e946cf098ae417ddaa91cb2ba379891d5b9002848619772ce0ec49507f3d20f389afdc4ea95506098718405269c8"
+
+[update]
+[update.modrinth]
+mod-id = "q4kfVkXs"
+version = "B3eyZg7E"
+
+[update.do_updates]
+do_updates = "true"
